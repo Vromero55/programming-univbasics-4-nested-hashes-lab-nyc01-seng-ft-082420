@@ -84,7 +84,7 @@ def adding_matz
       :yukihiro_matsumoto => {:known_for => "Ruby", :languages => ["LIPS", "C"]}
  		  
  		}
-programmer_hash[:yukihiro_matsumoto]
+programmer_hash#[:yukihiro_matsumoto]
 end
 
 def changing_alan
