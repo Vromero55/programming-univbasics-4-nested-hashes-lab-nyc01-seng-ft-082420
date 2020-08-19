@@ -77,9 +77,9 @@ def adding_matz
         :known_for => "Object Orientation",
         :languages => ["Smalltalk", "LISP"]
       },
-      :dennis_ritchie => {
+      :dennis_ritchies_language => {
         :known_for => "Unix",
-        :language => ["C"]
+        :languages => ["C"]
       } ,
       :yukihiro_matsumoto => {
         :known_for => "Ruby", 
