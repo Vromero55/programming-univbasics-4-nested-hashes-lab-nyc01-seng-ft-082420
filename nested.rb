@@ -88,7 +88,7 @@ def adding_matz
       }
  		  
  		}
-return programmer_hash[:dennis_ritchie][:languages]
+return programmer_hash[:dennis_ritchie]
 end
 
 def changing_alan
